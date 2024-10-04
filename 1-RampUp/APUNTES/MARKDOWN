@@ -1,0 +1,24 @@
+ **texo** : Para marcar en negritas
+
+ # texto : Mientras más almohadillas , más pequeño es el texto
+
+ * texto: Para crer viñeta y poner texto en forma de lista
+
+ 
+  ![imagen](./img/error_prueba.png): Dentro del ()se copia en url de la imagen
+
+ 
+ una lista ordenada
+ 1. uno
+ 2. dos
+ 
+ una lista no rodenada
+ - 1
+ + 2 el signo "+" deja un espacio arriba y abajo
+ - 3
+ - 4
+ ...
+ -----$$\sqrt(3x-1)+(1+x)^2$$: Para las fórmulas ponemos doble sirno de $, guión invertido y la operación a realizar
+
+
+
